@@ -94,7 +94,7 @@ a.action_container:link {
 }
 header {
     display: flex;
-    background-color: #ffffff;
+    background-color: bisque;
     height: 80px;
     justify-content: space-between;
     align-items: center;

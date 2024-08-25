@@ -8,7 +8,6 @@ function onLoad() {
   displayBagIcon();
 }
 
-
 function addToBag(itemId) {
   bagItems.push(itemId);
   localStorage.setItem('bagItems', JSON.stringify(bagItems));

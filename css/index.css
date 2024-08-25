@@ -125,7 +125,7 @@ header {
     border-bottom: 5px solid #ffffff;
 }
 .nav_bar a:hover {
-    border-bottom: 4px solid #f54e77;
+    border-bottom: 1px solid #f54e77;
 }
 
 .nav_bar a sup {
